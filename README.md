@@ -1,26 +1,34 @@
-This project is an interactive news website that integrates a real-time news API that updates the website with fresh news articles every 15 minutes, keeping users informed with the latest information.
-It utilizes HTML, CSS, and JavaScript to create a seamless and engaging user experience.
-Aditionally , it includes a search functionality that allows users to search news for any particular topic.
 
 
-SCREENSHOTS
+# Interactive News Website Project
 
-![Screenshot 2023-09-05 185548](https://github.com/nishitaa9/News-WebApp-Project/assets/130354449/49ba4378-8b62-4850-abc9-9e752ed39c12)
+## Overview
 
-Different Sections:
-![Screenshot 2023-09-05 185614](https://github.com/nishitaa9/News-WebApp-Project/assets/130354449/9069792c-22e2-4af6-82e9-47aedc7d51f2)
+The Interactive News Website is a dynamic platform that integrates a real-time news API, providing users with up-to-the-minute news articles and an interactive search feature. This project leverages HTML, CSS, and JavaScript to create an immersive and engaging user experience, keeping visitors informed about the latest news on various topics.
 
-Search Functionality:
+## Key Features
 
-![Screenshot 2023-09-05 185711](https://github.com/nishitaa9/News-WebApp-Project/assets/130354449/045ce001-8e4c-4bfa-abde-faa79bcfdaa6)
+- **Real-Time News Updates**: The website fetches fresh news articles from a real-time news API every 15 minutes, ensuring that users have access to the most current information.
 
-![Screenshot 2023-09-05 185727](https://github.com/nishitaa9/News-WebApp-Project/assets/130354449/bc918a66-444f-4876-a792-8114dbcd7634)
+- **User-Friendly Interface**: With a seamless blend of HTML, CSS, and JavaScript, the website offers a user-friendly and visually appealing interface.
 
-How to Use:
-1.Clone or download the project repository from GitHub.
+- **Search Functionality**: Users can easily search for news articles related to specific topics, enhancing their ability to find information that matters to them.
 
-2.Open the index.html file in your web browser.
+## Screenshots
 
+### Home Page
+![Screenshot 1](https://github.com/nishitaa9/News-WebApp-Project/assets/130354449/49ba4378-8b62-4850-abc9-9e752ed39c12)
 
+### Different Sections
+![Screenshot 2](https://github.com/nishitaa9/News-WebApp-Project/assets/130354449/9069792c-22e2-4af6-82e9-47aedc7d51f2)
 
+### Search Functionality
+![Screenshot 3](https://github.com/nishitaa9/News-WebApp-Project/assets/130354449/045ce001-8e4c-4bfa-abde-faa79bcfdaa6)
+![Screenshot 4](https://github.com/nishitaa9/News-WebApp-Project/assets/130354449/bc918a66-444f-4876-a792-8114dbcd7634)
+
+## How to Use
+
+1. **Clone or Download**: Begin by cloning or downloading the project repository from GitHub to your local machine.
+
+2. **Open in Browser**: Launch your web browser and open the `index.html` file to explore the Interactive News Website.
 
